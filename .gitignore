@@ -2,3 +2,4 @@ financialpro/
 Data/*
 .ipynb_checkpoints
 ipynb_checkpoints/
+Financial_Constants.py
