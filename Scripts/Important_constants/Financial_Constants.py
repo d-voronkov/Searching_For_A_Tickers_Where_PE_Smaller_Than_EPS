@@ -1,0 +1,1 @@
+# Here will be the essentail constants like Finnhub or Polygon API keys. this file will not be updated on the actual repository anymore.
