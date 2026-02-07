@@ -1,7 +1,9 @@
 financialpro/
-Data/*
+#Data/*
 .ipynb_checkpoints
 ipynb_checkpoints/
 Financial_Constants.py
 __pycache__
 *.log
+*.csv
+*.xlsx
